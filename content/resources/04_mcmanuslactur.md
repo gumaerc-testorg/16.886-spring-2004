@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/63836f8eb2e8a9cb047dbe60e1373165_04_mcmanuslactur.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/63836f8eb2e8a9cb047dbe60e1373165_04_mcmanuslactur.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 04_mcmanuslactur.pdf
 uid: 63836f8e-b2e8-a9cb-047d-be60e1373165

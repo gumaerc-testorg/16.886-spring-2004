@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation courtesy of Boeing Corporation. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/71b078765cb3d55919814166f82873ca_14_avionic_cert1.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/71b078765cb3d55919814166f82873ca_14_avionic_cert1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14_avionic_cert1.pdf
 uid: 71b07876-5cb3-d559-1981-4166f82873ca

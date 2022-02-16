@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/269d04429e56c3eb91c1d0188ac022c7_08_cargopration2.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/269d04429e56c3eb91c1d0188ac022c7_08_cargopration2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 08_cargopration2.pdf
 uid: 269d0442-9e56-c3eb-91c1-d0188ac022c7

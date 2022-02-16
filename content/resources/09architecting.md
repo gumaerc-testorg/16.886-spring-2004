@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/daabb70c0a3aa91c8cee2272898eb9e2_09architecting.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/daabb70c0a3aa91c8cee2272898eb9e2_09architecting.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 09architecting.pdf
 uid: daabb70c-0a3a-a91c-8cee-2272898eb9e2

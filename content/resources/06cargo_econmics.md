@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/513a2f71e14b78709dba4c378283e80c_06cargo_econmics.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/513a2f71e14b78709dba4c378283e80c_06cargo_econmics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 06cargo_econmics.pdf
 uid: 513a2f71-e14b-7870-9dba-4c378283e80c

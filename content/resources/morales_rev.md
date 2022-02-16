@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: A student's oral presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/0c461b7dd2e401563a3526acc9125840_Morales_rev.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/0c461b7dd2e401563a3526acc9125840_Morales_rev.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Morales_rev.pdf
 uid: 0c461b7d-d2e4-0156-3a35-26acc9125840

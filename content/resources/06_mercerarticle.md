@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/a17af064901e63e8c8c9f8aa19f75f4d_06_mercerarticle.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/a17af064901e63e8c8c9f8aa19f75f4d_06_mercerarticle.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 06_mercerarticle.pdf
 uid: a17af064-901e-63e8-c8c9-f8aa19f75f4d

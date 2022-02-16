@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Course Pedagogy
 uid: d7ea852d-2163-7a43-25fb-b3dbfb1874ae
 ---

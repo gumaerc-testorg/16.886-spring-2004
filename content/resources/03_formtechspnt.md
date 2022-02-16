@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-886-air-transportation-systems-architecting-spring-2004/3779b18ae3965460c20b5e79b9591931_03_formtechspnt.pdf
+file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/3779b18ae3965460c20b5e79b9591931_03_formtechspnt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 03_formtechspnt.pdf
 uid: 3779b18a-e396-5460-c20b-5e79b9591931
