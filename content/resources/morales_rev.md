@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6bc23302-aab9-9576-1a7b-7a3b3f5335ee
 resourcetype: Document
 title: Morales_rev.pdf
 uid: 0c461b7d-d2e4-0156-3a35-26acc9125840

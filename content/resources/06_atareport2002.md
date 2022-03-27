@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: 06_atareport2002.pdf
 uid: e2bdd46c-3e8e-2b41-5744-2f3bb0202593

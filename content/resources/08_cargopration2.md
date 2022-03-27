@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: 08_cargopration2.pdf
 uid: 269d0442-9e56-c3eb-91c1-d0188ac022c7

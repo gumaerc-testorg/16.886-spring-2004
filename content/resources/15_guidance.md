@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: 15_guidance.pdf
 uid: dd34235f-104c-18b2-3a87-2509e288aa08

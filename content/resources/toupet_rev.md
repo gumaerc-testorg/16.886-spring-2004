@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6bc23302-aab9-9576-1a7b-7a3b3f5335ee
 resourcetype: Document
 title: Toupet_rev.pdf
 uid: 07375d67-f33e-db8d-8860-beb123fe32bf

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6bc23302-aab9-9576-1a7b-7a3b3f5335ee
 resourcetype: Document
 title: King_rev.pdf
 uid: 150ce9be-a2bc-d2ab-d821-b9d692362d76

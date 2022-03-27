@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6bc23302-aab9-9576-1a7b-7a3b3f5335ee
 resourcetype: Document
 title: apendix1prntabl1_prnt.pdf
 uid: 28651346-7eaf-17e4-de0c-6ef7f664eeeb

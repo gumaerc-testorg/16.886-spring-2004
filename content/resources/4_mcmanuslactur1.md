@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: 4_mcmanuslactur1.pdf
 uid: 7022e9b1-1d9a-3441-401b-2b9bfa0d9e92

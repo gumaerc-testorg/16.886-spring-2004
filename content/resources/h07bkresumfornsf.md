@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: h07bkresumfornsf.pdf
 uid: afc7cd42-80ed-bdfa-91fd-92907b6ec4e0
