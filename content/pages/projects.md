@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,14 +15,14 @@ Final Written Report
 
 Brachet et al. "Architecture and Evaluation of a Formation Flight System for Existing Cargo Aircraft." AIAA_,_ 2004, preprint.  
   
-Reference Material for a Proposed Formation Flight System ([PDF 1 of 2 - 1.7 MB]({{< baseurl >}}/resources/apendix1prntabl1_prnt)) ([PDF 2 of 2 - 1.6 MB]({{< baseurl >}}/resources/apendix1prntabl2_prnt)) (Courtesy of the following students: J. B. Brachet, R. Cleaz, Amandine Denis, Adam Diedrich, Dan King, Paul Mitchell, Daniel Morales, Jean-François Onnée, Theresa Robinson, Olivier Toupet, and Brian Wong. Used with permission.)
+Reference Material for a Proposed Formation Flight System ({{% resource_link 28651346-7eaf-17e4-de0c-6ef7f664eeeb "PDF 1 of 2 - 1.7 MB" %}}) ({{% resource_link 7b57eaa4-4aba-9806-3975-81bf93e48ade "PDF 2 of 2 - 1.6 MB" %}}) (Courtesy of the following students: J. B. Brachet, R. Cleaz, Amandine Denis, Adam Diedrich, Dan King, Paul Mitchell, Daniel Morales, Jean-François Onnée, Theresa Robinson, Olivier Toupet, and Brian Wong. Used with permission.)
 
 Final Oral Presentation
 -----------------------
 
-Formation Flight Feasibility Study ([PDF - 1.6 MB]({{< baseurl >}}/resources/final_presentation2b_rev))  
+Formation Flight Feasibility Study ({{% resource_link cb1ec3b4-84be-4f0d-63c7-09233b45ebbb "PDF - 1.6 MB" %}})  
   
-Back-up Slides ([PDF]({{< baseurl >}}/resources/backup_prnt))
+Back-up Slides ({{% resource_link 53c4f99b-9fbe-859c-9b6e-6438066e8d07 "PDF" %}})
 
 Individual Oral Presentations
 -----------------------------
@@ -44,7 +45,7 @@ TOPICS
 Richard Cléaz-Savoyen
 {{< tdclose >}}
 {{< tdopen >}}
-Formation Flight: A Possible Approach to Commercial and Military Cargo Transport ([PDF]({{< baseurl >}}/resources/cleazsavoyen_rev)) (Courtesy of R. Cleaz. Used with permission.)
+Formation Flight: A Possible Approach to Commercial and Military Cargo Transport ({{% resource_link de9db932-dd3f-7547-78b7-f0e76df91ad5 "PDF" %}}) (Courtesy of R. Cleaz. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +54,7 @@ Formation Flight: A Possible Approach to Commercial and Military Cargo Transport
 Amandine Denis
 {{< tdclose >}}
 {{< tdopen >}}
-Formation Flight Aerodynamic Performance ([PDF]({{< baseurl >}}/resources/denis_rev)) (Courtesy of Amandine Denis. Used with permission.)
+Formation Flight Aerodynamic Performance ({{% resource_link c44f0294-cd7d-b6b4-167d-5990a3c95639 "PDF" %}}) (Courtesy of Amandine Denis. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +63,7 @@ Formation Flight Aerodynamic Performance ([PDF]({{< baseurl >}}/resources/denis_
 Adam Diedrich
 {{< tdclose >}}
 {{< tdopen >}}
-Air Transport Systems Cost and Weight Analysis ([PDF]({{< baseurl >}}/resources/diedrich)) (Courtesy of Adam Diedrich. Used with permission.)
+Air Transport Systems Cost and Weight Analysis ({{% resource_link b2eee975-951f-7ea0-97c7-a666a9a352c6 "PDF" %}}) (Courtesy of Adam Diedrich. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ Air Transport Systems Cost and Weight Analysis ([PDF]({{< baseurl >}}/resources/
 Dan King
 {{< tdclose >}}
 {{< tdopen >}}
-Military Cargo Needs, Market, and Metrics ([PDF]({{< baseurl >}}/resources/king_rev)) (Courtesy of Dan King. Used with permission.)
+Military Cargo Needs, Market, and Metrics ({{% resource_link 150ce9be-a2bc-d2ab-d821-b9d692362d76 "PDF" %}}) (Courtesy of Dan King. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +81,7 @@ Military Cargo Needs, Market, and Metrics ([PDF]({{< baseurl >}}/resources/king_
 Paul Mitchell
 {{< tdclose >}}
 {{< tdopen >}}
-Autonomous Flight Control and Software Literature Review ([PDF]({{< baseurl >}}/resources/mitchell_rev)) (Courtesy of Paul Mitchell. Used with permission.)
+Autonomous Flight Control and Software Literature Review ({{% resource_link f301ba56-4472-2029-eebe-f3344a78aa9e "PDF" %}}) (Courtesy of Paul Mitchell. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ Autonomous Flight Control and Software Literature Review ([PDF]({{< baseurl >}}/
 Dan Morales
 {{< tdclose >}}
 {{< tdopen >}}
-Commercial Cargo Needs, Market, and Metrics ([PDF]({{< baseurl >}}/resources/morales_rev)) (Courtesy of Daniel Morales. Used with permission.)
+Commercial Cargo Needs, Market, and Metrics ({{% resource_link 0c461b7d-d2e4-0156-3a35-26acc9125840 "PDF" %}}) (Courtesy of Daniel Morales. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Commercial Cargo Needs, Market, and Metrics ([PDF]({{< baseurl >}}/resources/mor
 Jean-François Onnée
 {{< tdclose >}}
 {{< tdopen >}}
-Human Factors in Formation Flights for Air Cargo Delivery ([PDF]({{< baseurl >}}/resources/onnee_rev)) (Courtesy of Jean-François Onnée. Used with permission.)
+Human Factors in Formation Flights for Air Cargo Delivery ({{% resource_link 205d3edf-862d-b96b-bec4-76058878a4bb "PDF" %}}) (Courtesy of Jean-François Onnée. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ Human Factors in Formation Flights for Air Cargo Delivery ([PDF]({{< baseurl >}}
 Theresa Robinson
 {{< tdclose >}}
 {{< tdopen >}}
-Multidisciplinary System Design Methods ([PDF]({{< baseurl >}}/resources/robinson)) (Courtesy of Theresa Robinson. Used with permission.)
+Multidisciplinary System Design Methods ({{% resource_link d9c62b1d-62c9-aff2-6db1-12f60c6f41cf "PDF" %}}) (Courtesy of Theresa Robinson. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +117,7 @@ Multidisciplinary System Design Methods ([PDF]({{< baseurl >}}/resources/robinso
 Olivier Toupet
 {{< tdclose >}}
 {{< tdopen >}}
-Formation Flight Project: Aircraft Stability and Control ([PDF]({{< baseurl >}}/resources/toupet_rev)) (Courtesy of Olivier Toupet. Used with permission.)
+Formation Flight Project: Aircraft Stability and Control ({{% resource_link 07375d67-f33e-db8d-8860-beb123fe32bf "PDF" %}}) (Courtesy of Olivier Toupet. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +126,7 @@ Formation Flight Project: Aircraft Stability and Control ([PDF]({{< baseurl >}}
 Brian Wong
 {{< tdclose >}}
 {{< tdopen >}}
-Communications System Architectures for Autonomous Formation Flight ([PDF]({{< baseurl >}}/resources/wong_rev)) (Courtesy of Brian Wong. Used with permission.)
+Communications System Architectures for Autonomous Formation Flight ({{% resource_link 96845ec2-54f4-ccd8-44c8-b2e9a298a656 "PDF" %}}) (Courtesy of Brian Wong. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

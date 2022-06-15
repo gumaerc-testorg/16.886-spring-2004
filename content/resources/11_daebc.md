@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/f1f74907f3c14108bbc6c121d95679c5_11_daebc.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/f1f74907f3c14108bbc6c121d95679c5_11_daebc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

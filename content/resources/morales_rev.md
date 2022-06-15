@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A student's oral presentation.
-file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/0c461b7dd2e401563a3526acc9125840_Morales_rev.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/0c461b7dd2e401563a3526acc9125840_Morales_rev.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Morales_rev.pdf
 uid: 0c461b7d-d2e4-0156-3a35-26acc9125840
 ---
+A student's oral presentation.
+

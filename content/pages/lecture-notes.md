@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 ---
 
-Many of 16.886's lectures were delivered by guests from MIT and elsewhere. Handouts and reference material have been listed under 'Supporting Files'. This table includes the course's lecture (LE) sessions only; a fully-integrated calendar including the laboratory sessions is also [available]({{< baseurl >}}/pages/calendar).
+Many of 16.886's lectures were delivered by guests from MIT and elsewhere. Handouts and reference material have been listed under 'Supporting Files'. This table includes the course's lecture (LE) sessions only; a fully-integrated calendar including the laboratory sessions is also {{% resource_link 7ed32c2b-edd9-f762-aadf-02dfb1785990 "available" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -35,7 +36,7 @@ LE1
 {{< tdopen >}}
 Course Introduction  
   
-Introduction of Formation Flight Project ([PDF]({{< baseurl >}}/resources/01_murman_intro))
+Introduction of Formation Flight Project ({{% resource_link ecd4911c-5fa5-95b8-2db4-4579439ede0c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Earll Murman  
@@ -57,7 +58,7 @@ Jiang, H., L. Ren and R.J. Hansman, "Market and Infrastructure Analysis of Futur
 LE2
 {{< tdclose >}}
 {{< tdopen >}}
-NASA / Boeing / UCLA Autonomous Formation Flight Program Overview and Findings ([PDF 1 of 2 - 3.4 MB]({{< baseurl >}}/resources/02_greg_larson1)) ([PDF 2 of 2 - 2.1 MB]({{< baseurl >}}/resources/02_greg_larson2)) (Courtesy of Greg Larson. Used with permission.)
+NASA / Boeing / UCLA Autonomous Formation Flight Program Overview and Findings ({{% resource_link 1265be45-6f2d-5721-8356-ad48572ad150 "PDF 1 of 2 - 3.4 MB" %}}) ({{% resource_link 1fbffe6c-d8bb-5550-bde2-624bdf7f26a5 "PDF 2 of 2 - 2.1 MB" %}}) (Courtesy of Greg Larson. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Greg Larson  
@@ -73,7 +74,7 @@ Boeing Phantom Works
 LE3
 {{< tdclose >}}
 {{< tdopen >}}
-Technical Considerations for Autonomous Formation Flying Systems ([PDF]({{< baseurl >}}/resources/03_formtechspnt))
+Technical Considerations for Autonomous Formation Flying Systems ({{% resource_link 3779b18a-e396-5460-c20b-5e79b9591931 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. John Hansman  
@@ -89,7 +90,7 @@ MIT
 LE4
 {{< tdclose >}}
 {{< tdopen >}}
-MATECON - Method for Rapid Architecture Selection and Conceptual Design ([PDF 1 of 2 - 2.4 MB]({{< baseurl >}}/resources/4_mcmanuslactur1)) ([PDF 2 of 2 - 2.5 MB]({{< baseurl >}}/resources/4_mcmanuslactur2)) (Courtesy of Hugh McManus. Used with permission.)
+MATECON - Method for Rapid Architecture Selection and Conceptual Design ({{% resource_link 7022e9b1-1d9a-3441-401b-2b9bfa0d9e92 "PDF 1 of 2 - 2.4 MB" %}}) ({{% resource_link b47999cf-88b3-3a32-4874-e862ea6cfe3a "PDF 2 of 2 - 2.5 MB" %}}) (Courtesy of Hugh McManus. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Hugh McManus  
@@ -121,7 +122,7 @@ Missile Defense Agency
 LE6
 {{< tdclose >}}
 {{< tdopen >}}
-Economics of Commercial Cargo Operations ([PDF]({{< baseurl >}}/resources/06cargo_econmics))
+Economics of Commercial Cargo Operations ({{% resource_link 513a2f71-e14b-7870-9dba-4c378283e80c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. John-Paul Clarke  
@@ -139,11 +140,11 @@ Kadar, Mark and John Larew. "Securing the Future of Air Cargo." _Mercer on Trave
 LE7
 {{< tdclose >}}
 {{< tdopen >}}
-Military and Commercial Cargo Mission Needs ([PDF]({{< baseurl >}}/resources/07mitmiltry_ndco)) (Courtesy of Blaine Rawdon. Used with permission.)
+Military and Commercial Cargo Mission Needs ({{% resource_link 1240a346-d781-717e-b702-2ca7941d1caa "PDF" %}}) (Courtesy of Blaine Rawdon. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Blaine Rawdon  
-Boeing Phantom Works ([PDF]({{< baseurl >}}/resources/h07bkresumfornsf))
+Boeing Phantom Works ({{% resource_link afc7cd42-80ed-bdfa-91fd-92907b6ec4e0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -155,7 +156,7 @@ Boeing Phantom Works ([PDF]({{< baseurl >}}/resources/h07bkresumfornsf))
 LE8
 {{< tdclose >}}
 {{< tdopen >}}
-Market for Cargo Operations ([PDF 1 of 3 - 2.8 MB]({{< baseurl >}}/resources/08_cargopration1)) ([PDF 2 of 3 - 4.6 MB]({{< baseurl >}}/resources/08_cargopration2)) ([PDF 3 of 3 - 1.3 MB]({{< baseurl >}}/resources/08_cargopration3)) (Courtesy of Al Haggerty. Used with permission.)
+Market for Cargo Operations ({{% resource_link 1a7a3be1-a1a5-e67a-1696-69dccbb3b112 "PDF 1 of 3 - 2.8 MB" %}}) ({{% resource_link 269d0442-9e56-c3eb-91c1-d0188ac022c7 "PDF 2 of 3 - 4.6 MB" %}}) ({{% resource_link 42be39b1-ebd2-8aad-0709-62d944fb2b09 "PDF 3 of 3 - 1.3 MB" %}}) (Courtesy of Al Haggerty. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Al Haggerty  
@@ -171,7 +172,7 @@ MIT & Boeing (Retired)
 LE9
 {{< tdclose >}}
 {{< tdopen >}}
-Architecting and Designing Air Transportation Systems ([PDF]({{< baseurl >}}/resources/09architecting))
+Architecting and Designing Air Transportation Systems ({{% resource_link daabb70c-0a3a-a91c-8cee-2272898eb9e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. John-Paul Clarke  
@@ -219,11 +220,11 @@ Boeing Phantom Works & MIT
 LE12
 {{< tdclose >}}
 {{< tdopen >}}
-Human Factors for Formation Flying ([PDF]({{< baseurl >}}/resources/12_humanfactors_rev4)) (Courtesy of Missy Cummings. Used with permission.)
+Human Factors for Formation Flying ({{% resource_link 2dfae218-f8b0-b6ae-e335-c2bbc7f7d233 "PDF" %}}) (Courtesy of Missy Cummings. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Missy Cummings  
-MIT ([PDF]({{< baseurl >}}/resources/h12misycumngsbio))
+MIT ({{% resource_link e3d048fc-d365-1ea1-9233-1c25b5705856 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 NASA Dryden Flight Research Center Movie Collection: [Automated Aerial Refueling (AAR)](https://www.nasa.gov/centers/dryden/news/ResearchUpdate/AAR/), [Autonomous Formation Flight (AAF)](https://www.nasa.gov/centers/dryden/history/pastprojects/AFF/index.html)
@@ -251,7 +252,7 @@ MIT
 LE14
 {{< tdclose >}}
 {{< tdopen >}}
-Avionics ([PDF 1 of 2- 1.3 MB]({{< baseurl >}}/resources/14_avionic_cert1)) ([PDF 2 of 2 - 2.2 MB]({{< baseurl >}}/resources/14_avionic_cert2) )
+Avionics ({{% resource_link 71b07876-5cb3-d559-1981-4166f82873ca "PDF 1 of 2- 1.3 MB" %}}) ({{% resource_link 5eb51b05-043e-50d4-3689-91620afe7f37 "PDF 2 of 2 - 2.2 MB" %}} )
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. John Hansman  
@@ -287,7 +288,7 @@ Managing Risk
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Ray Leopold  
-MIT and Motorola (Retired) ([PDF]({{< baseurl >}}/resources/h16rayleopoldbio))
+MIT and Motorola (Retired) ({{% resource_link 473718b4-c5f8-d9b6-4cba-2f56413c12a0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -347,7 +348,7 @@ MIT
 LE20
 {{< tdclose >}}
 {{< tdopen >}}
-Closing the Business Case ([PDF]({{< baseurl >}}/resources/20business_case))
+Closing the Business Case ({{% resource_link d0d2e7d7-fba3-3e5d-13f0-cc53a01ee65b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. John-Paul Clarke  

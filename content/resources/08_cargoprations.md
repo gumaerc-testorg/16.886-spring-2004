@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/432c45da1f245c6196b254c5a0d39ddf_08_cargoprations.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/432c45da1f245c6196b254c5a0d39ddf_08_cargoprations.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

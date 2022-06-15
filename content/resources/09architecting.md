@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/courses/16-886-air-transportation-systems-architecting-spring-2004/daabb70c0a3aa91c8cee2272898eb9e2_09architecting.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/daabb70c0a3aa91c8cee2272898eb9e2_09architecting.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 09architecting.pdf
 uid: daabb70c-0a3a-a91c-8cee-2272898eb9e2
 ---
+Lecture presentation.
+
