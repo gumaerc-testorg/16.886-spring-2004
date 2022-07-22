@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/dd3423
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 15_guidance.pdf
 uid: dd34235f-104c-18b2-3a87-2509e288aa08
 ---
 Lecture presentation.
-

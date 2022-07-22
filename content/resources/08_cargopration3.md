@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/42be39
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 08_cargopration3.pdf
 uid: 42be39b1-ebd2-8aad-0709-62d944fb2b09
 ---
 Guest lecture presentation courtesy of Al Haggerty. Used with permission.
-

@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/5eb51b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14_avionic_cert2.pdf
 uid: 5eb51b05-043e-50d4-3689-91620afe7f37
 ---
 Lecture presentation courtesy of Boeing Corporation. Used with permission.
-

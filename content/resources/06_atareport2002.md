@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/e2bdd4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 06_atareport2002.pdf
 uid: e2bdd46c-3e8e-2b41-5744-2f3bb0202593
 ---
 Lecture handout. 2002 Annual Report of Air Transport Association, Inc.
-

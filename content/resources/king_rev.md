@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/150ce9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: King_rev.pdf
 uid: 150ce9be-a2bc-d2ab-d821-b9d692362d76
 ---
 A student's oral presentation.
-

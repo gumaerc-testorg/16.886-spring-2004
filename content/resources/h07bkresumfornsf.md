@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/afc7cd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: h07bkresumfornsf.pdf
 uid: afc7cd42-80ed-bdfa-91fd-92907b6ec4e0
 ---
 This handout contains a short resume for guest lecturer Blaine Rawdon.
-

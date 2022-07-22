@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/e3d048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: h12misycumngsbio.pdf
 uid: e3d048fc-d365-1ea1-9233-1c25b5705856
 ---
 This handout contains a short resume for guest lecturer Missy Cummings.
-

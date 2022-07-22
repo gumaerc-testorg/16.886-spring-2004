@@ -9,6 +9,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/286513
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: apendix1prntabl1_prnt.pdf
 uid: 28651346-7eaf-17e4-de0c-6ef7f664eeeb
 ---
 Document related to the final written report, Brachet et al. "Architecture and Evaluation of a Formation Flight System for Existing Cargo Aircraft." AIAA, 2004. Courtesy of the following students: J. B. Brachet, R. Cleaz, Amandine Denis, Adam Diedrich, Dan King, Paul Mitchell, Daniel Morales, Jean-Fran?ois Onn?e, Theresa Robinson, Olivier Toupet, and Brian Wong. Used with permission.
-

@@ -5,6 +5,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/2dfae2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12_humanfactors_rev4.pdf
 uid: 2dfae218-f8b0-b6ae-e335-c2bbc7f7d233
 ---
 Guest lecture presentation courtesy of Missy Cummings. Used with permission.
-

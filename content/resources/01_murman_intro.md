@@ -6,6 +6,7 @@ file: /courses/16-886-air-transportation-systems-architecting-spring-2004/ecd491
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 01_murman_intro.pdf
 uid: ecd4911c-5fa5-95b8-2db4-4579439ede0c
 ---
 Introductory lecture presentation. Includes course information, agenda, and the outline of the first lecture.
-
