@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/513a2f71e14b78709dba4c378283e80c_06cargo_econmics.pdf
+file_size: 171986
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
