@@ -2,6 +2,7 @@
 content_type: resource
 description: A student's oral presentation.
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/de9db932dd3f754778b7f0e76df91ad5_CleazSavoyen_rev.pdf
+file_size: 289761
 file_type: application/pdf
 learning_resource_types:
 - Projects
