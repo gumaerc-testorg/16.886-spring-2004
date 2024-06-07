@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/797b8920248761732155019bda1738d5_04_mcmanusnotes.pdf
+file_size: 3506719
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
