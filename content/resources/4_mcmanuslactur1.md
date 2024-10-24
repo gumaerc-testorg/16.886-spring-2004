@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation courtesy of Hugh McManus. Used with permission.
-file: /courses/16-886-air-transportation-systems-architecting-spring-2004/7022e9b11d9a3441401b2b9bfa0d9e92_4_mcmanuslactur1.pdf
+file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/7022e9b11d9a3441401b2b9bfa0d9e92_4_mcmanuslactur1.pdf
 file_size: 2496508
 file_type: application/pdf
 learning_resource_types:
