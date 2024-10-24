@@ -2,7 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation. Includes course information, agenda,
   and the outline of the first lecture.
-file: /courses/16-886-air-transportation-systems-architecting-spring-2004/ecd4911c5fa595b82db44579439ede0c_01_murman_intro.pdf
+file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/ecd4911c5fa595b82db44579439ede0c_01_murman_intro.pdf
 file_size: 706751
 file_type: application/pdf
 learning_resource_types:
