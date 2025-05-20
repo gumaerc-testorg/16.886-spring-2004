@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/269d04429e56c3eb91c1d0188ac022c7_08_cargopration2.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/269d04429e56c3eb91c1d0188ac022c7_08_cargopration2.pdf
 file_size: 5933881
 file_type: application/pdf
 learning_resource_types:

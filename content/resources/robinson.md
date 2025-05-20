@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A student's oral presentation.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/d9c62b1d62c9aff26db112f60c6f41cf_robinson.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/d9c62b1d62c9aff26db112f60c6f41cf_robinson.pdf
 file_size: 26253
 file_type: application/pdf
 learning_resource_types:

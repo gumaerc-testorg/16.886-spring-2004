@@ -5,7 +5,7 @@ description: 'Document related to the final written report, Brachet et al. "Arch
   2004. Courtesy of the following students: J. B. Brachet, R. Cleaz, Amandine Denis,
   Adam Diedrich, Dan King, Paul Mitchell, Daniel Morales, Jean-Fran?ois Onn?e, Theresa
   Robinson, Olivier Toupet, and Brian Wong. Used with permission.'
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/286513467eaf17e4de0c6ef7f664eeeb_apendix1prntabl1_prnt.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/286513467eaf17e4de0c6ef7f664eeeb_apendix1prntabl1_prnt.pdf
 file_size: 1771741
 file_type: application/pdf
 learning_resource_types:

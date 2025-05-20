@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guest lecture presentation courtesy of Blaine Rawdon. Used with permission.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/1240a346d781717eb7022ca7941d1caa_07mitmiltry_ndco.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/1240a346d781717eb7022ca7941d1caa_07mitmiltry_ndco.pdf
 file_size: 377067
 file_type: application/pdf
 learning_resource_types:
