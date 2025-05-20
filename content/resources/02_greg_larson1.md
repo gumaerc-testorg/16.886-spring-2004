@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guest lecture presentation courtesy of Greg Larson. Used with permission.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/1265be456f2d57218356ad48572ad150_02_greg_larson1.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/1265be456f2d57218356ad48572ad150_02_greg_larson1.pdf
 file_size: 3570766
 file_type: application/pdf
 learning_resource_types:

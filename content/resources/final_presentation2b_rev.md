@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final oral presentation.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/cb1ec3b484be4f0d63c709233b45ebbb_Final_Presentation2B_rev.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/cb1ec3b484be4f0d63c709233b45ebbb_Final_Presentation2B_rev.pdf
 file_size: 1638412
 file_type: application/pdf
 learning_resource_types:

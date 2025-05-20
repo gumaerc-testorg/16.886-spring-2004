@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/ce3bb6a9ad2bb915be6ab28c5ccb7d53_05prtzglbl_rngst.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/ce3bb6a9ad2bb915be6ab28c5ccb7d53_05prtzglbl_rngst.pdf
 file_size: 422898
 file_type: application/pdf
 learning_resource_types:

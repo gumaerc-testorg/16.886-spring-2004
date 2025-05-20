@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a short resume for guest lecturer Blaine Rawdon.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/afc7cd4280edbdfa91fd92907b6ec4e0_h07bkresumfornsf.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/afc7cd4280edbdfa91fd92907b6ec4e0_h07bkresumfornsf.pdf
 file_size: 9709
 file_type: application/pdf
 learning_resource_types:

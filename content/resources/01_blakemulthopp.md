@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/ab208a8f2d9631cd6acb5f2d8e29d713_01_blakemulthopp.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/ab208a8f2d9631cd6acb5f2d8e29d713_01_blakemulthopp.pdf
 file_size: 931586
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains a short biography of guest lecture Dr. Raymond
   J. Leopold.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/473718b4c5f8d9b64cba2f56413c12a0_h16rayleopoldbio.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/473718b4c5f8d9b64cba2f56413c12a0_h16rayleopoldbio.pdf
 file_size: 16605
 file_type: application/pdf
 learning_resource_types:
