@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout. 2002 Annual Report of Air Transport Association, Inc.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/e2bdd46c3e8e2b4157442f3bb0202593_06_atareport2002.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/e2bdd46c3e8e2b4157442f3bb0202593_06_atareport2002.pdf
 file_size: 813954
 file_type: application/pdf
 learning_resource_types:

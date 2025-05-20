@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/3779b18ae3965460c20b5e79b9591931_03_formtechspnt.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/3779b18ae3965460c20b5e79b9591931_03_formtechspnt.pdf
 file_size: 479596
 file_type: application/pdf
 learning_resource_types:

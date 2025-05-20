@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/2923eb414e0825c17db50a13da591495_13_autonomy.pdf
+file: /courses/16-886-air-transportation-systems-architecting-spring-2004/2923eb414e0825c17db50a13da591495_13_autonomy.pdf
 file_size: 3500253
 file_type: application/pdf
 learning_resource_types:
