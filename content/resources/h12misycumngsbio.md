@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a short resume for guest lecturer Missy Cummings.
-file: /courses/16-886-air-transportation-systems-architecting-spring-2004/e3d048fcd3651ea192331c25b5705856_h12misycumngsbio.pdf
+file: /ol-ocw-studio-app/courses/16-886-air-transportation-systems-architecting-spring-2004/e3d048fcd3651ea192331c25b5705856_h12misycumngsbio.pdf
 file_size: 9093
 file_type: application/pdf
 learning_resource_types:
